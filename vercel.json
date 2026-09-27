@@ -1,0 +1,11 @@
+{
+  "redirects": [
+    { "source": "/pages/the-science", "destination": "/pages/the-real-science", "permanent": true },
+    { "source": "/pages/quiz", "destination": "/", "permanent": true },
+    { "source": "/cart", "destination": "/", "permanent": true },
+    { "source": "/checkout", "destination": "/", "permanent": true },
+    { "source": "/collections", "destination": "/collections/all", "permanent": true },
+    { "source": "/policies/refund-policy", "destination": "/", "permanent": true },
+    { "source": "/policies/shipping-policy", "destination": "/", "permanent": true }
+  ]
+}
